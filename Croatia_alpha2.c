@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include<string.h>
 // 입력받은 총 문자열 개수에서 크로아티아 문자에 해당한다면 총 문자열에서 차감하는 방식
-// 메모리 관리에 도움됨.
+// 앞선 버전보다 메모리를 적게 사용함.
 
 int main(void) {
   char words[100];
